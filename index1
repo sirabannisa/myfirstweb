@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sirabannisa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Halo Gaes 👋</h1>
+    <p>Selamat datang di website pribadiku.</p>
+</header>
+
+<section class="card">
+    <h2>Perkenalkan</h2>
+
+    <img src="images/sirabannisa1.png" alt="Sirabannisa" class="foto-utama">
+
+    <p>
+        Hai, aku <b>Sirabannisa</b>.
+    </p>
+
+    <p>
+        Selamat datang di website pribadiku.
+    </p>
+
+    <p>
+        Di sini aku berbagi cerita tentang keseharianku, pengalaman hidup,
+        hobi, dan beberapa foto yang ingin aku simpan sebagai kenangan.
+        Aku berasal dari desa dan sehari-hari bekerja membantu orang sebagai
+        asisten rumah tangga maupun asisten pribadi.
+    </p>
+
+    <p>
+        Aku juga sesekali suka membuat konten dan joget TikTok walaupun belum
+        terlalu jago. Semoga cerita-cerita yang aku bagikan bisa menghibur
+        dan memberi semangat untuk siapa pun yang berkunjung.
+    </p>
+
+    <p>
+        Terima kasih sudah mampir. Semoga betah ya 😊
+    </p>
+</section>
+
+<section class="card">
+    <h2>Galeri Foto</h2>
+
+    <div class="gallery">
+        <img src="images/sirabannisa1.png" alt="">
+        <img src="images/nisa1.png" alt="">
+        <img src="images/foto3.jpg" alt="">
+        <img src="images/foto4.png" alt="">
+    </div>
+</section>
+
+<footer>
+    © 2025 • Website pribadi Sirabannisa
+</footer>
+
+</body>
+</html>
